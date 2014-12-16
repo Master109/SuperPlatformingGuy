@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25c7e039f7d5b9f44a00fa5cd4c1e12c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wallCheck1: {instanceID: 0}
+  - wallCheck2: {instanceID: 0}
+  - guiSkin1: {fileID: 11400000, guid: aad7da4b55802446b8cef5d0432ee6b5, type: 2}
+  - guiSkin2: {fileID: 11400000, guid: e4fae67da275a49d1bcd57bb7a6a1aa2, type: 2}
+  - skybox1: {fileID: 2100000, guid: 742da578c54e24af5a40f37599c2766c, type: 2}
+  - skybox2: {fileID: 2100000, guid: 24fcc0e53031b428c983cc75f747f205, type: 2}
+  - starPic: {fileID: 100000, guid: 4be1835d7a8024aaa85feff58cf5245b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
